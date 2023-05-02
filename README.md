@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AkiTinkers
+- 👋 Hi, I’m @supernova
 - 👀 I’m interested in artificial intelligence, robots, and stuff
 - 🌱 I’m currently learning arduino systems
 - 💞️ I’m looking to collaborate on anything, really
