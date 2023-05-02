@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @supernova
-- 👀 I’m interested in artificial intelligence, robots, and stuff
-- 🌱 I’m currently learning arduino systems
-- 💞️ I’m looking to collaborate on anything, really
+- 👋 Hi, I’m @supernovaaa84
+- 👀 I’m interested in chiptuning
+- 🌱 I’m currently learning various programming languages and chiptuning stuff
+- 💞️ I’m looking to collaborate and learn 
 
 
 <!---
-AkiTinkers/AkiTinkers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+supernovaaa84/Supernovaaa84 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
